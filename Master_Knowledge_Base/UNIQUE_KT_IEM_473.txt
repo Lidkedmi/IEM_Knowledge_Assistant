@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_473
+====================================
+1. תמצית: An investigation into a customer complaint about diameter deviation revealed machine calibration was not verified against the updated production plan, leading to the mandatory addition of a caliper check before new production series.
+2. רקע: A customer complaint regarding a significant quality deviation (diameter dimensions) triggered a thorough investigation into the production process for shipment XJ-900.
+3. תובנה מרכזית: Inadequate verification of machine calibration against the most current production specifications is a critical failure point that can lead to significant quality defects. Implementing a mandatory, independent verification step (caliper check) is essential to ensure product conformity and prevent recurrence.
+4. צעדים:
+   * Before starting any new production series, perform a mandatory 'caliper check' (בדיקת קליבר) to verify dimensions.
+   * Ensure that machine calibration is always verified against the *updated* production plan, not an outdated version.
+   * Review the attached A3 report for detailed root causes of the incident and all specified preventive actions.
+5. אזהרות:
+   * Skipping the mandatory caliper check or using outdated production plans for verification will negate the effectiveness of this preventive measure and risk further quality escapes.
+   * Ensure all operators are thoroughly trained on the correct caliper usage and the updated verification procedures.
+   * Regularly audit the calibration and verification process to maintain compliance and prevent future quality issues.

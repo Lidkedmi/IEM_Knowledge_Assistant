@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_480
+====================================
+1. תמצית: A 3-week delay from a key Chinese supplier for electronic component 55B is impacting voltage converter production, leading to a temporary shift in production priorities.
+2. רקע: This information is documented due to a critical supply chain disruption caused by a single-source component delay, forcing a re-evaluation of production schedules and supplier diversification strategies.
+3. תובנה מרכזית: Dependency on single suppliers for critical components poses significant supply chain risks; proactive supplier diversification and flexible production planning are essential for mitigating such disruptions.
+4. צעדים:
+   * Purchasing department to actively search for alternative suppliers in Europe for component 55B.
+   * Temporarily freeze production of 'Alpha' models that require the delayed component.
+   * Prioritize and increase production of 'Beta' models that do not require component 55B.
+   * Communicate production schedule changes and potential order delays to sales and affected customers.
+5. אזהרות:
+   * Risk of increased costs if alternative suppliers are more expensive or require new qualification processes.
+   * Potential for quality issues with new, unvetted suppliers, requiring rigorous incoming inspection.
+   * Impact on customer satisfaction due to delays in 'Alpha' model orders and potential order cancellations.
+   * Need to manage inventory of other components for 'Alpha' models to avoid obsolescence during the freeze.

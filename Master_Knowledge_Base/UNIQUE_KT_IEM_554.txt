@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_554
+====================================
+1. תמצית: The company is transitioning to a Just-In-Time (JIT) inventory model with its main component supplier, 'Tech-Log', aiming for a 20% inventory reduction.
+2. רקע: An in-depth economic analysis revealed significant potential for inventory cost reduction and improved capital efficiency.
+3. תובנה מרכזית: Implementing a JIT model, backed by thorough economic analysis, can substantially reduce inventory holding costs and optimize working capital.
+4. צעדים:
+   * Conduct an in-depth economic analysis to justify JIT implementation.
+   * Formalize the JIT model with the main component supplier ('Tech-Log').
+   * Purchasing department to issue new scheduling guidelines.
+   * Target a 20% inventory reduction within the next year.
+5. אזהרות:
+   * Risk of supply chain disruptions if the supplier fails to meet JIT demands consistently.
+   * Potential for production stoppages due to delayed component deliveries.
+   * Requires robust communication and strong collaboration with the supplier.
+   * Initial implementation may necessitate adjustments to internal logistics and production planning.

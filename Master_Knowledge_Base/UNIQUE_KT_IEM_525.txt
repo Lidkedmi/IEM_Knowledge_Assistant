@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_525
+====================================
+1. תמצית: A new preventive maintenance procedure for hydraulic presses has been implemented following recent breakdowns.
+2. רקע: A series of hydraulic press breakdowns occurred in the past month, indicating a need for improved and more frequent maintenance practices.
+3. תובנה מרכזית: Proactive and more frequent preventive maintenance, including stricter component replacement schedules and diligent logging, is crucial to prevent costly machine breakdowns and ensure operational continuity.
+4. צעדים:
+   * Perform daily morning oil pressure checks on all hydraulic presses.
+   * Replace seals every 2,000 cycles (reduced from 5,000 cycles).
+   * Record all maintenance activities and checks in the digital machine log.
+5. אזהרות:
+   * Non-compliance with the new procedure will result in immediate machine shutdown.
+   * Ensure all operators and maintenance staff are thoroughly trained on the new procedure and its importance.
+   * Monitor breakdown frequency to assess the effectiveness of the new procedure and make further adjustments if needed.

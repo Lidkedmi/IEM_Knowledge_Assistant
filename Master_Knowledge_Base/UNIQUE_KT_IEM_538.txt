@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_538
+====================================
+1. תמצית: The company is strategically transitioning from a Make-to-Stock (MTS) to a Make-to-Order (MTO) model for premium products, significantly impacting the supply chain.
+2. רקע: This information is being documented to communicate a major strategic shift in production methodology for premium products, outlining its long-term implications for the supply chain and inventory management.
+3. תובנה מרכזית: Shifting from MTS to MTO for premium products can optimize inventory costs and reduce waste, but it requires a fundamental re-evaluation and restructuring of the entire supply chain, particularly raw material procurement and lead times.
+4. צעדים:
+   * Analyze and adjust raw material inventory strategies based on MTO requirements.
+   * Redesign supply chain processes to support demand-driven production.
+   * Communicate the strategic change and its implications across all relevant departments.
+   * Review the attached presentation for detailed analysis of raw material inventory implications.
+5. אזהרות:
+   * Inadequate planning for raw material procurement and supplier lead times can lead to significant production delays in an MTO model.
+   * Failure to effectively communicate and train personnel on the new MTO processes can disrupt operations and customer satisfaction.
+   * The transition may initially impact production flexibility and delivery times if not managed carefully.

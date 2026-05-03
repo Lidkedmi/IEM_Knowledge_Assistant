@@ -1,0 +1,12 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_432
+====================================
+1. תמצית: An investigation into 40 containers stuck at the port revealed a critical lack of backup suppliers in the Far East.
+2. רקע: A significant supply chain disruption occurred in January, with 40 containers stranded at the port, attributed to an over-reliance on a single supplier region.
+3. תובנה מרכזית: Diversifying the supplier base and establishing secondary sourcing for critical components is crucial for mitigating supply chain risks and ensuring resilience against geopolitical or logistical disruptions.
+4. צעדים:
+   * Map all critical components that currently lack alternative suppliers.
+   * Contact at least 3 potential secondary suppliers in Europe for these critical components.
+   * Establish a secondary sourcing pool for critical components.
+5. אזהרות:
+   * Over-reliance on a single geographic region or supplier for critical components poses a severe supply chain risk.
+   * Failure to diversify suppliers can lead to significant production delays and financial losses during disruptions.

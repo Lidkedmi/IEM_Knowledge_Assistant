@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_544
+====================================
+1. תמצית: A new strict FIFO inventory management procedure is being implemented for chemical materials in the warehouse.
+2. רקע: The organization is transitioning to a rigid First-In, First-Out (FIFO) inventory system to better manage chemical materials, likely to prevent spoilage or expiration.
+3. תובנה מרכזית: Implementing a strict FIFO system with clear visual cues (colored barcodes) and defined steps is essential for effective inventory management, especially for time-sensitive or perishable goods like chemical materials.
+4. צעדים:
+   * Scan each incoming pallet upon entry.
+   * Mark each pallet with a colored sticker indicating its arrival month.
+   * Store pallets in their designated FIFO locations.
+   * Shift managers are responsible for enforcing the new procedure with logistics personnel.
+5. אזהרות:
+   * Failure to strictly adhere to FIFO can lead to expired or unusable chemical materials, resulting in waste and potential safety hazards.
+   * Inaccurate scanning or marking can disrupt the FIFO flow and compromise inventory integrity.
+   * Lack of consistent enforcement by shift managers may lead to non-compliance and undermine the procedure's effectiveness.

@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_482
+====================================
+1. תמצית: A new strict FIFO protocol, including color-coded shipments and 5 new receiving/arrangement steps, will be implemented to improve raw material inventory turnover by 15%.
+2. רקע: This information is documented as the company is implementing a new inventory management procedure to optimize raw material flow, reduce waste, and achieve a measurable improvement in inventory turnover.
+3. תובנה מרכזית: Standardized inventory management protocols, such as strict FIFO with clear visual aids, are highly effective in improving inventory turnover, reducing obsolescence, and optimizing warehouse efficiency.
+4. צעדים:
+   * Implement the strict FIFO protocol for all raw material inventory starting this Sunday.
+   * Mark every incoming shipment with a dedicated color sticker based on the quarter of receipt.
+   * Follow the 5 new receiving and arrangement steps as detailed in the attached document.
+   * Conduct comprehensive training for all warehouse staff on the new FIFO procedures and color-coding system.
+5. אזהרות:
+   * Initial resistance or errors from staff during the transition period, requiring close supervision and reinforcement.
+   * Ensure consistent application of color-coding and FIFO rules across all shifts and personnel.
+   * Potential for disruption if warehouse layout is not fully optimized for efficient FIFO flow.
+   * Need for regular audits and performance monitoring to ensure compliance and sustain the 15% improvement target.

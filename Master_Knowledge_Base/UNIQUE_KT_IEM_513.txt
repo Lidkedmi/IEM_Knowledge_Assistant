@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_513
+====================================
+1. תמצית: A serious safety incident occurred where a pallet fell from 6 meters due to a faulty forklift, leading to new safety protocols.
+2. רקע: This information is documented following a severe safety incident to formalize the investigation's findings and implement corrective actions to prevent recurrence and enhance workplace safety.
+3. תובנה מרכזית: Thorough investigation of safety incidents reveals critical operational flaws, emphasizing the need for strict equipment maintenance, adherence to load limits, and technological safeguards to prevent serious accidents.
+4. צעדים:
+   * Mandatory daily operational checks for all forklifts.
+   * Enforce a maximum load limit of 800 kg on standard wooden pallets.
+   * Utilize new weight sensors installed in the forklift fleet to prevent overloads.
+   * Train forklift operators on new procedures and sensor usage.
+   * Review and update warehouse safety protocols.
+5. אזהרות:
+   * Using faulty equipment poses severe safety risks and can lead to serious accidents.
+   * Exceeding load limits on pallets or equipment can cause structural failure and falls.
+   * Lack of daily equipment checks can allow critical malfunctions to go unnoticed until an incident occurs.

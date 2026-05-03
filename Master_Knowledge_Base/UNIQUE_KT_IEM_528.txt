@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_528
+====================================
+1. תמצית: A high scrap rate of 12% with air bubbles was found in batch 4022 due to unstable mold temperature, requiring immediate machine shutdown and cooling system cleaning.
+2. רקע: A quality check revealed a significant percentage of defective products in a specific production batch, indicating a critical process issue affecting product quality.
+3. תובנה מרכזית: Unstable mold temperature is a critical factor leading to high scrap rates in injection molding, and immediate corrective action involving cooling system maintenance is essential to restore product quality.
+4. צעדים:
+   * Stop the machine immediately upon detection of unstable mold temperature or high scrap rate.
+   * Perform a thorough cleaning of the cooling system.
+   * Verify mold temperature stability and conduct test runs before resuming full production.
+5. אזהרות:
+   * Failure to address unstable mold temperature promptly will result in continued production of defective parts and significant material waste.
+   * Ensure proper cleaning procedures for the cooling system are followed to prevent recurrence and potential damage.
+   * Monitor product quality closely after resuming production to confirm the issue is resolved.

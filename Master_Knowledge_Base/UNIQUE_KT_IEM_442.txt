@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_442
+====================================
+1. תמצית: A new procedure for managing dead stock has been implemented due to 2.4 million NIS worth of stagnant inventory accumulated over a year.
+2. רקע: Significant financial loss and inefficient resource utilization were identified due to accumulated dead stock (2.4 million NIS over a year), necessitating a structured management procedure.
+3. תובנה מרכזית: Proactive and systematic management of dead stock is essential to minimize financial losses, optimize warehouse space, and improve inventory turnover efficiency.
+4. צעדים:
+   * Sort dead stock by ABC categories to prioritize disposition efforts.
+   * Evaluate possibilities for returning eligible stock to suppliers (deadline: 15th of the month).
+   * Obtain necessary financial approval for scrapping any non-returnable dead stock.
+   * Implement the new dead stock management procedure effectively starting today.
+5. אזהרות:
+   * Failure to follow the procedure will lead to continued accumulation of dead stock, tying up capital and warehouse space.
+   * Missing the supplier return deadline (15th of the month) may forfeit opportunities for financial recovery.
+   * Scrapping inventory without proper financial approval can lead to accounting discrepancies and compliance issues.

@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_478
+====================================
+1. תמצית: A critical database error during an SAP upgrade led to system unavailability and a temporary return to manual operations for goods receipt and delivery notes.
+2. רקע: This information is documented due to a system-wide failure during an ERP upgrade, necessitating a fallback to manual processes to maintain essential operations and capture the immediate response to a critical system outage.
+3. תובנה מרכזית: Robust contingency plans, including well-defined manual fallback procedures, are crucial for maintaining business continuity during critical system failures, especially during major system upgrades.
+4. צעדים:
+   * Transition to manual paper forms for goods receipt and delivery notes immediately.
+   * IT team to collaborate with overseas support for data restoration from yesterday's backup.
+   * Communicate system status and expected recovery time to all affected departments.
+5. אזהרות:
+   * Risk of data discrepancies and errors due to manual entry, requiring careful verification upon system restoration.
+   * Potential for significant delays in processing and reporting, impacting operational visibility.
+   * Ensure all manual forms are properly archived and secured for later data entry and audit purposes.
+   * Lack of real-time visibility into inventory and shipments during the manual operation period.

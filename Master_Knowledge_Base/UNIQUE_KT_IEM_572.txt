@@ -1,0 +1,11 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_572
+====================================
+1. תמצית: An investigation into recent shipping delays identified a bottleneck at the weighing stage, leading to the implementation of new SOP-LOG-02.
+2. רקע: An in-depth investigation was conducted following shipping delays experienced last week, revealing a process bottleneck.
+3. תובנה מרכזית: Identifying and addressing process bottlenecks, even seemingly minor ones like weighing, can significantly improve overall distribution efficiency and reduce lead times.
+4. צעדים:
+   * Implement new SOP-LOG-02, requiring digital scanning before weighing.
+   * Follow the detailed steps outlined on page 3 of the new procedure.
+5. אזהרות:
+   * Ensure all personnel are properly trained on the new SOP to avoid errors or further delays.
+   * Monitor the impact of the new procedure to confirm the expected 15% process reduction and identify any new bottlenecks.

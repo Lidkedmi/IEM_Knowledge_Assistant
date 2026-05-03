@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_608
+====================================
+1. תמצית: A Kaizen project in the packaging department successfully increased output by 15% and reduced cycle time from 45 to 38 seconds.
+2. רקע: This information documents the successful outcome and methods of a Kaizen initiative to serve as a model for future process improvements and efficiency gains.
+3. תובנה מרכזית: Optimizing workstation layout and eliminating unnecessary movements (Muda) through Kaizen principles significantly boosts productivity and reduces cycle time.
+4. צעדים:
+   * Conduct a focused Kaizen event or week.
+   * Analyze and implement changes to workstation layout.
+   * Identify and reduce unnecessary movements within the process.
+   * Engage the operational team to generate creative improvement ideas.
+5. אזהרות:
+   * Ensure thorough analysis before implementing layout changes to avoid creating new bottlenecks or inefficiencies.
+   * Maintain continuous team engagement and feedback mechanisms to sustain improvements and foster a culture of continuous improvement.

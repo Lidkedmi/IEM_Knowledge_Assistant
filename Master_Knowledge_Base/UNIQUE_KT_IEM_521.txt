@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_521
+====================================
+1. תמצית: Production line 4 was immediately halted due to a severe safety fault involving a pallet drop caused by a miscalibrated proximity sensor in the automated conveying system.
+2. רקע: This information is documented to address a critical safety incident, ensure immediate corrective actions, and prevent recurrence through updated procedures and rigorous safety checks.
+3. תובנה מרכזית: Regular calibration, preventative maintenance, and adherence to updated inspection procedures for safety-critical sensors are paramount to prevent severe accidents and ensure operational safety in automated systems.
+4. צעדים:
+   * Replace the faulty proximity sensor immediately.
+   * Recalibrate all proximity sensors across the entire production line 4.
+   * Update the weekly inspection procedure to include specific checks for sensor calibration and functionality.
+5. אזהרות:
+   * Do not resume work on production line 4 without explicit approval from the Safety Manager after all corrective actions are verified.
+   * Inadequate calibration or failure to strictly follow updated procedures can lead to further safety incidents and potential injuries.
+   * Ignoring sensor maintenance and calibration can result in severe equipment damage, production downtime, and personnel injury.

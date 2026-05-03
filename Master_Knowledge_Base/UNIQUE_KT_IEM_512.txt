@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_512
+====================================
+1. תמצית: A new Just-In-Time (JIT) inventory management protocol is introduced for raw materials, aiming to reduce storage costs by 20%.
+2. רקע: This information is documented to formalize a new JIT inventory management procedure, driven by the objective of significantly reducing storage costs and optimizing inventory levels.
+3. תובנה מרכזית: Implementing JIT inventory management, with strict controls on reorder points, supplier lead times, and real-time data entry, can significantly reduce storage costs and improve inventory efficiency.
+4. צעדים:
+   * Place purchase orders only when inventory reaches 15% of storage capacity.
+   * Approve suppliers only if their delivery time is less than 48 hours.
+   * Enter all inventory movements into the ERP system in real-time.
+   * Train personnel on the new JIT procedures and ERP data entry.
+   * Monitor storage costs to track the 20% reduction goal.
+5. אזהרות:
+   * Strict JIT relies heavily on highly reliable suppliers; any delay can halt production.
+   * Failure to accurately track inventory in real-time can lead to stockouts.
+   * Lack of buffer stock increases vulnerability to unexpected demand spikes or supply chain disruptions.

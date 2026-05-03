@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_542
+====================================
+1. תמצית: A raw material leak in the central warehouse was caused by a failure in routine pressure testing, leading to the implementation of more frequent automatic sensor checks and procedural updates.
+2. רקע: This information is being documented to formalize the findings of a raw material leak investigation and outline the corrective actions required to prevent recurrence.
+3. תובנה מרכזית: Regular and automated monitoring of critical parameters, combined with well-defined operational procedures and calibrated equipment, is crucial for preventing hazardous material leaks and ensuring warehouse safety.
+4. צעדים:
+   * Implement automatic sensor control checks every 4 hours (instead of 12).
+   * Calibrate all relevant sensors.
+   * Refresh safety and handling procedures for forklift operators.
+   * Implement these changes in the MES software by the end of the week.
+5. אזהרות:
+   * Inadequate frequency of pressure testing or sensor monitoring can lead to undetected leaks and safety hazards.
+   * Failure to calibrate sensors regularly can result in inaccurate readings and false security.
+   * Outdated or unrefreshed operational procedures for equipment operators (e.g., forklift drivers) can contribute to incidents.
+   * Delay in implementing corrective actions in the MES system can leave the system vulnerable.

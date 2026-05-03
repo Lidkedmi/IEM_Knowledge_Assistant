@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_421
+====================================
+1. תמצית: Production line 3 was immediately stopped due to a critical safety failure in the press's protection mechanism.
+2. רקע: A critical safety failure occurred in the protection mechanism of the press on production line 3, necessitating an immediate halt to operations to prevent worker injury.
+3. תובנה מרכזית: Prioritizing employee safety above all production targets is paramount, and immediate action must be taken when safety mechanisms fail.
+4. צעדים:
+   * Stop production on line 3 immediately.
+   * Do not operate the machine.
+   * Await arrival of a safety technician.
+   * Obtain approval from the maintenance manager before restarting.
+5. אזהרות:
+   * Operating machinery with a failed safety mechanism poses a critical risk to employee safety.
+   * Do not resume production without explicit safety technician and maintenance manager approval.

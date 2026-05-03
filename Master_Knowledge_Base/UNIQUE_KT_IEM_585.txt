@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_585
+====================================
+1. תמצית: Digital quality control reporting will replace paper-based reporting starting the 1st of the month.
+2. רקע: The organization is transitioning from manual paper-based quality checks to a fully digital system within the ERP to improve efficiency, data accuracy, and streamline reporting processes.
+3. תובנה מרכזית: Digitalization of quality control processes within the ERP system enhances data integrity, reduces manual errors, and provides real-time visibility, leading to more effective quality management.
+4. צעדים:
+   * Transition to digital-only quality control reporting on the 1st of the month.
+   * Discontinue acceptance of paper quality reports at the end of shifts.
+   * Ensure all shift managers have the necessary permissions for the 'Quality-Check' module.
+   * Utilize the provided short user guide, including screenshots and explanations for mandatory fields.
+5. אזהרות:
+   * Potential resistance from staff accustomed to paper forms; ensure adequate training and support.
+   * Risk of initial data entry errors or system navigation issues during the adoption phase.
+   * Verify system stability and accessibility for all users across different shifts and locations.
+   * Ensure the digital module captures all necessary data points previously recorded on paper.

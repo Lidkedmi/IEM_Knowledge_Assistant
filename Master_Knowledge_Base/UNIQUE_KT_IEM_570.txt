@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_570
+====================================
+1. תמצית: The annual factory shutdown for preventive maintenance, including bearing replacements and control software upgrades, is scheduled for August 15-20.
+2. רקע: The factory is undergoing its annual shutdown for essential preventive maintenance activities to ensure operational continuity.
+3. תובנה מרכזית: Scheduled annual shutdowns for preventive maintenance are crucial for ensuring equipment longevity, operational efficiency, and preventing unexpected breakdowns.
+4. צעדים:
+   * Replace bearings on all production lines.
+   * Upgrade control software.
+   * Follow the detailed Gantt chart for task allocation and responsibilities.
+5. אזהרות:
+   * Strict adherence to the maintenance schedule is critical to avoid extending downtime.
+   * Ensure all necessary parts and software licenses are available before the shutdown begins.
+   * Thoroughly test all upgraded systems before resuming full production.

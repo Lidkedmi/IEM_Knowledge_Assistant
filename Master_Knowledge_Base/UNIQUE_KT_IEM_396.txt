@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_396
+====================================
+1. תמצית: A 5% viscosity deviation in product series #99822, exceeding approved standards, requires immediate quarantine of all affected pallets.
+2. רקע: This information is documented to address a critical quality non-conformance that could lead to customer complaints, product recalls, and reputational damage if not contained immediately.
+3. תובנה מרכזית: Immediate containment, clear labeling, and rigorous re-testing protocols are essential to prevent defective products from reaching customers and to maintain stringent quality standards.
+4. צעדים:
+   * Immediately stop all pallets from series #99822 in the finished goods warehouse.
+   * Mark affected pallets with a 'Rejected' label.
+   * Quality Assurance department to perform re-sampling tomorrow morning.
+5. אזהרות:
+   * Do not release any goods to customers without a signed approval from the authorized personnel.
+   * Failure to quarantine immediately risks shipping defective products, leading to severe customer dissatisfaction.
+   * Inadequate re-testing or premature release could lead to recurrence of the quality issue.

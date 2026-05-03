@@ -1,0 +1,11 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_519
+====================================
+1. תמצית: A Pareto analysis revealed that 80% of shipment delays are caused by lack of coordination with the shipping company (45%) and customs paperwork errors (35%).
+2. רקע: This information is documented to address recurring shipment delays by identifying and targeting their primary root causes, thereby improving overall logistics efficiency and customer satisfaction.
+3. תובנה מרכזית: Applying Pareto analysis effectively identifies the 'vital few' causes responsible for the majority of problems, enabling focused efforts for maximum impact on operational improvements and problem resolution.
+4. צעדים:
+   * Implement a double document control process within the logistics department for all outgoing shipments before truck departure.
+5. אזהרות:
+   * Failure to address the underlying causes of coordination issues with shipping companies may lead to recurring delays despite new controls.
+   * The new document control process must be consistently applied and audited to be effective; any shortcuts will undermine its purpose.
+   * Over-reliance on a single solution without continuous monitoring and adaptation may not fully resolve all delay factors.

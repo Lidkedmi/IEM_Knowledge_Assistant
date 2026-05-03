@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_475
+====================================
+1. תמצית: A new AI-powered predictive maintenance system, using IoT sensors on main production engines to predict failures 48 hours in advance, will begin its pilot phase on Line 1 on 1.12.24.
+2. רקע: The organization is launching a flagship project to improve maintenance efficiency and reduce unplanned downtime by transitioning from reactive/preventive maintenance to a predictive maintenance strategy.
+3. תובנה מרכזית: Leveraging IoT sensors and AI for predictive maintenance allows for early detection of potential equipment failures (48 hours in advance), enabling proactive maintenance scheduling, minimizing unplanned downtime, and optimizing operational continuity.
+4. צעדים:
+   * Maintenance technicians must attend the mandatory training session scheduled for Tuesday to understand the new system.
+   * Prepare for the pilot phase of the predictive maintenance system, which will commence on 1.12.24 on Production Line 1.
+   * Familiarize with the system's alert mechanisms, data analysis capabilities, and the required response protocols for predicted failures.
+5. אזהרות:
+   * Inadequate training or understanding of the predictive maintenance system by maintenance technicians could lead to missed alerts or incorrect interpretations, negating its benefits.
+   * Ensure proper installation and calibration of all IoT sensors on the main production engines to guarantee accurate data collection and reliable predictions.
+   * The system's effectiveness relies on timely and appropriate responses to predicted failure alerts; establish clear protocols for action and escalation.

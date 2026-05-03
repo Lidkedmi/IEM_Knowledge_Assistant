@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_555
+====================================
+1. תמצית: A new safety procedure for electric forklift operation, including a 5 km/h speed limit in specific areas, has been introduced following a near-miss accident.
+2. רקע: A recent near-miss accident in the distribution warehouse highlighted critical safety gaps and the urgent need for updated protocols.
+3. תובנה מרכזית: Proactive safety measures, such as updated procedures and mandatory retraining, are essential to prevent accidents, ensure a safe working environment, and respond effectively to near-miss incidents.
+4. צעדים:
+   * Develop and distribute an updated safety procedure for electric forklift operation.
+   * Mandate retraining for all forklift operators by the end of the week.
+   * Implement and enforce a speed limit of 5 km/h in loading and unloading areas.
+   * Monitor compliance with the new procedure and conduct regular audits.
+5. אזהרות:
+   * Failure to enforce retraining or speed limits could lead to future accidents and injuries.
+   * Operator resistance to new procedures may require additional management oversight and communication.
+   * Ensure clear signage and visible enforcement mechanisms for speed limits.

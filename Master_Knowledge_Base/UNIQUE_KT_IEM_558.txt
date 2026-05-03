@@ -1,0 +1,16 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_558
+====================================
+1. תמצית: A new Manufacturing Execution System (MES) module is being implemented in assembly lines to enable real-time OEE monitoring and standardize reporting.
+2. רקע: The company is upgrading its production reporting and monitoring capabilities to gain real-time insights into assembly line performance.
+3. תובנה מרכזית: Implementing an MES system provides real-time visibility into production performance (e.g., OEE), enabling data-driven decision-making, proactive issue resolution, and continuous operational improvement.
+4. צעדים:
+   * Install the new MES module on dedicated tablets across assembly lines.
+   * Distribute comprehensive user guides to all relevant personnel.
+   * Provide mandatory training for all operators and supervisors on the new MES system for reporting.
+   * Transition all production reporting to the new MES system starting Sunday.
+   * Actively utilize real-time OEE data for performance analysis and process optimization.
+5. אזהרות:
+   * Operator resistance to new technology may hinder adoption and compromise data accuracy.
+   * Potential for initial data entry errors or system glitches during the transition phase.
+   * Ensure robust IT support and troubleshooting resources are available during and after implementation.
+   * Inadequate training can lead to incorrect data, user frustration, and failure to realize system benefits.

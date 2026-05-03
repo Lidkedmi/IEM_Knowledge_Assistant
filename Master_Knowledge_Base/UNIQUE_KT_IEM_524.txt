@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_524
+====================================
+1. תמצית: A warehouse reorganization project using the ABC method was completed, relocating high-movement items closer to the distribution dock.
+2. רקע: The company undertook a project to optimize its spare parts warehouse layout to improve efficiency and reduce picking times.
+3. תובנה מרכזית: Applying the ABC inventory classification method to warehouse layout significantly reduces picking time by prioritizing the accessibility of high-demand items.
+4. צעדים:
+   * Identify A-items (20% of items, 80% of movement).
+   * Relocate A-items to shelves closest to the distribution dock.
+   * Implement the new warehouse map for all picking operations.
+5. אזהרות:
+   * Ensure all personnel are trained on the new layout and map to avoid confusion.
+   * Verify the new map is correctly distributed and understood by all relevant staff.
+   * Monitor picking times post-implementation to confirm the expected 18% savings.

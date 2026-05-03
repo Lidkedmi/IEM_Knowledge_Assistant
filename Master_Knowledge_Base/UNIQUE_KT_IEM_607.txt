@@ -1,0 +1,12 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_607
+====================================
+1. תמצית: A new procedure requires all incoming shipments to be barcode scanned via the supplier portal before unloading to improve inventory accuracy.
+2. רקע: The existing goods receipt process led to manual data entry errors in the ERP system, resulting in inaccurate inventory records.
+3. תובנה מרכזית: Implementing digital, automated data capture (e.g., barcode scanning) at the earliest possible stage in the logistics process significantly reduces manual data entry errors and enhances inventory accuracy, leading to better operational efficiency and reduced discrepancies.
+4. צעדים:
+   * Scan barcodes of all incoming shipments via the supplier portal before unloading from the truck.
+   * Adhere strictly to the updated Standard Operating Procedure (SOP_WH_002) for goods receipt.
+5. אזהרות:
+   * Failure to follow the new scanning procedure will perpetuate ERP data entry errors and inaccurate inventory records.
+   * Lack of training or understanding of the new SOP can lead to process bottlenecks or non-compliance.
+   * Any issues with the supplier portal or barcode readability must be immediately reported to avoid delays and ensure data integrity.

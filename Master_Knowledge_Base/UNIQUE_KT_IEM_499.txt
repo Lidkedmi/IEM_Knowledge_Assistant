@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_499
+====================================
+1. תמצית: An attempted external cyber attack on the production network (OT systems) was detected, prompting an immediate security response.
+2. רקע: Unusual activity, identified as an attempted external cyber attack, was detected on the operational technology (OT) network, posing a significant threat to production systems.
+3. תובנה מרכזית: OT systems are vulnerable to external cyber threats, requiring immediate and decisive action to isolate systems and prevent potential damage or disruption to production.
+4. צעדים:
+   * Immediately disconnect all workstations from the internet.
+   * Switch to offline mode for operations until further notice.
+   * Notify the cyber security team for a full system scan.
+   * Shift managers must ensure compliance with these directives.
+5. אזהרות:
+   * Failure to promptly disconnect from the internet during a cyber attack can lead to system compromise and severe operational disruption.
+   * Operating online during an active attack can expose critical OT systems to further damage.
+   * Treat all unusual network activity in OT environments as a potential security breach.

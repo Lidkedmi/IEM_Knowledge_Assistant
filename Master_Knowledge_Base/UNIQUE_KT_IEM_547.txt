@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_547
+====================================
+1. תמצית: A Kaizen project successfully reduced the final assembly station's cycle time by 21% through workstation reorganization and automation.
+2. רקע: A Kaizen initiative was undertaken to improve productivity and reduce cycle time at the final assembly station.
+3. תובנה מרכזית: Combining lean manufacturing principles (5S) with targeted automation (e.g., automatic feeders) can significantly enhance productivity and reduce cycle times in assembly processes, yielding measurable improvements.
+4. צעדים:
+   * Conduct detailed observations to identify inefficiencies and bottlenecks (completed over two weeks).
+   * Reorganize the workstation using 5S methodology (Sort, Set in Order, Shine, Standardize, Sustain).
+   * Implement automation solutions, such as an automatic screw feeder.
+   * Update and disseminate the revised work protocol to other departments for potential replication.
+5. אזהרות:
+   * Without proper training and buy-in from operators, new procedures or equipment may not be utilized effectively, hindering sustained gains.
+   * Lack of continuous monitoring and auditing can lead to a regression in productivity improvements over time.
+   * Resistance to change or insufficient communication can undermine the successful adoption of new methods and tools.

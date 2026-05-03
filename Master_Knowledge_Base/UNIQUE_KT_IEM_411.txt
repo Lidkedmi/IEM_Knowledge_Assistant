@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_411
+====================================
+1. תמצית: Production Line A was immediately stopped due to critical main engine failure, identified as bearing failure, following unusual vibrations and temperature rise.
+2. רקע: This information is documented to address an urgent and critical equipment breakdown that necessitated an immediate production halt, outlining the emergency response and mitigation steps.
+3. תובנה מרכזית: Early detection of abnormal equipment behavior (e.g., vibrations, temperature spikes) and strict adherence to emergency protocols are vital for preventing catastrophic failures and managing production continuity.
+4. צעדים:
+   * Immediately stop production due to unusual vibrations and temperature rise in the main engine.
+   * Transfer raw materials to cooling areas as per protocol.
+   * Order an external technician for specialized repair.
+   * Update delivery schedules for customers to manage expectations.
+5. אזהרות:
+   * Do not restart the line without explicit approval from the maintenance manager.
+   * Ignoring early warning signs (vibrations, temperature) can lead to more severe damage and extended downtime.
+   * Failure to follow emergency protocols can exacerbate the situation, potentially leading to material spoilage or further equipment damage.

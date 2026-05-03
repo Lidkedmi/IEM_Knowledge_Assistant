@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_503
+====================================
+1. תמצית: An investigation into an abnormal pressure increase in tank 20 concluded that a blocked relief valve due to sediment accumulation was the cause.
+2. רקע: An abnormal pressure increase in tank 20 led to a safety incident, prompting an in-depth investigation to identify the root cause and prevent recurrence.
+3. תובנה מרכזית: Critical safety components like relief valves require rigorous and frequent inspection to prevent blockages from sediment, and supplier quality can directly impact system reliability and safety.
+4. צעדים:
+   * Add a weekly inspection of relief valves for sediment accumulation to the maintenance checklist.
+   * Evaluate and replace the current valve supplier to ensure higher quality components.
+   * Analyze pressure data preceding incidents to identify patterns and early warning signs.
+5. אזהרות:
+   * Failure to regularly inspect and maintain critical safety components (e.g., relief valves) can lead to dangerous system failures and safety hazards.
+   * Accumulation of sediment can silently compromise safety mechanisms, requiring proactive cleaning or design changes.
+   * Poor quality components from suppliers can be a hidden risk factor for system reliability and safety.

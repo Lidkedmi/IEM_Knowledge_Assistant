@@ -1,0 +1,10 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_422
+====================================
+1. תמצית: An investigation into a raw material supply delay revealed an EDI interface failure with a German supplier.
+2. רקע: Raw material supply was delayed last week due to an identified failure in the Electronic Data Interchange (EDI) interface with a key supplier in Germany.
+3. תובנה מרכזית: Over-reliance on automated systems like EDI without manual oversight can lead to critical supply chain disruptions; regular manual checks are essential for critical interfaces.
+4. צעדים:
+   * Conduct a manual control check of the EDI interface with the German supplier every Thursday morning.
+5. אזהרות:
+   * EDI interface failures can cause significant raw material supply delays.
+   * Do not assume automated systems are infallible; implement regular manual verification for critical processes.

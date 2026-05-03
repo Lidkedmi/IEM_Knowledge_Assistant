@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_606
+====================================
+1. תמצית: The reject rate on electronic assembly line 2 surged to 12% (target 2%) due to an issue at the automatic soldering station.
+2. רקע: A significant deviation from the quality target was detected, indicating a critical process control issue that resulted in a high volume of defective products.
+3. תובנה מרכזית: Timely identification of quality deviations and thorough root cause analysis (e.g., equipment calibration, material quality) are crucial to prevent further production of defective products and minimize scrap.
+4. צעדים:
+   * Recalibrated the automatic soldering head.
+   * Replaced the solder supplier to address potential material quality issues.
+   * Isolated and performed 100% re-inspection of all batches produced since 12/03.
+5. אזהרות:
+   * Unmonitored automatic processes can lead to rapid accumulation of defective products before detection.
+   * Poor quality raw materials or uncalibrated equipment can severely impact product quality and yield.
+   * Failure to quarantine and re-inspect affected batches risks shipping defective products to customers, leading to returns and reputational damage.

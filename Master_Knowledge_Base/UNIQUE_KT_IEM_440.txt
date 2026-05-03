@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_440
+====================================
+1. תמצית: An annual fire safety audit revealed three emergency exits in the hazardous materials warehouse were blocked by pallets.
+2. רקע: A critical annual safety audit identified severe fire safety violations, posing immediate danger in a hazardous materials storage area.
+3. תובנה מרכזית: Maintaining clear emergency exits is a non-negotiable safety requirement, especially in hazardous material zones, and demands continuous, proactive monitoring to prevent catastrophic incidents.
+4. צעדים:
+   * Immediately clear all blocked emergency exits.
+   * Appoint a 'Safety Trustee' responsible for daily safety checks.
+   * Implement daily morning safety scans by the Safety Trustee across all critical areas.
+   * Ensure adherence to the attached safety scanning protocol.
+5. אזהרות:
+   * Blocked emergency exits are a first-degree safety failure and can lead to severe injuries, fatalities, or operational shutdowns during an emergency.
+   * Failure to implement daily checks can result in recurring safety violations and a false sense of security.
+   * Non-compliance with safety protocols can lead to significant legal liabilities and regulatory penalties.

@@ -1,0 +1,10 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_460
+====================================
+1. תמצית: The average OEE dropped to 72% last week, primarily due to downtime on Line 2 caused by a shortage of packaging materials.
+2. רקע: A 3% drop in OEE for the past week, specifically due to downtime on Line 2, necessitated an investigation into the root cause and implementation of corrective actions.
+3. תובנה מרכזית: Insufficient safety stock for critical consumables (like packaging materials) can directly lead to significant production downtime and a reduction in Overall Equipment Effectiveness (OEE), highlighting the importance of robust inventory planning.
+4. צעדים:
+   * Increase the safety stock of packaging cartons from 2 working days to 5 working days.
+5. אזהרות:
+   * Failing to increase safety stock could lead to recurring downtime and continued OEE degradation.
+   * Over-increasing safety stock without proper analysis could lead to increased holding costs and obsolescence of materials.

@@ -1,0 +1,11 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_426
+====================================
+1. תמצית: The company's ERP system crashed across all sites, an unprecedented event in the last decade.
+2. רקע: The entire company's ERP system experienced a complete crash, an extremely rare event, leading to a loss of operational data and requiring IT intervention.
+3. תובנה מרכזית: A robust disaster recovery plan, including frequent backups and clear communication protocols, is critical for maintaining business continuity during major system failures.
+4. צעדים:
+   * IT team to restore data from the nightly backup.
+   * Await further instructions from IT.
+5. אזהרות:
+   * Do not perform any manual inventory operations until the ERP system is fully restored and approved.
+   * Manual interventions during a system crash can lead to data inconsistencies or further complications.

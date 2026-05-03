@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_592
+====================================
+1. תמצית: A new raw material pull procedure is being implemented to improve Work-In-Process (WIP) inventory management and reduce waste.
+2. רקע: This information is documented to formalize a new operational procedure aimed at enhancing inventory control, preventing material shortages, and achieving a specific waste reduction target.
+3. תובנה מרכזית: Implementing a structured, digitalized pull system for raw materials, including barcode scanning and digital approvals, significantly improves inventory accuracy, prevents shortages, and directly contributes to waste reduction.
+4. צעדים:
+   * Scan item barcode in the ERP system.
+   * Enter the required pull quantity.
+   * Obtain digital approval from the warehouse manager.
+   * Adhere to the detailed steps and sanctions outlined in the attached document.
+5. אזהרות:
+   * Non-compliance with the new procedure can lead to continued material shortages and failure to meet waste reduction targets.
+   * Inadequate training or system issues during implementation could hinder the effectiveness of the new pull system.

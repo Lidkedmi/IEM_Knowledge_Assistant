@@ -1,0 +1,12 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_568
+====================================
+1. תמצית: A 5% data discrepancy between manual reports and SAP ERP, caused by a faulty server update, was resolved with data restoration and a new daily validation protocol.
+2. רקע: A 5% discrepancy was identified between manual production floor reports and SAP ERP system data, traced to an incorrect server update.
+3. תובנה מרכזית: Inaccurate system updates can lead to critical data synchronization failures, necessitating robust validation protocols to maintain data integrity between production and ERP systems.
+4. צעדים:
+   * Perform data restoration.
+   * Define and implement a new daily validation protocol starting tomorrow morning.
+   * Ensure all work orders are closed in the system.
+5. אזהרות:
+   * Always verify system updates thoroughly before deployment to prevent data corruption or synchronization issues.
+   * Regularly audit data integrity between manual and automated systems to catch discrepancies early.

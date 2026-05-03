@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_612
+====================================
+1. תמצית: A new procedure for counting Work-In-Process (WIP) inventory at the end of each shift will be implemented to reduce discrepancies between ERP and physical stock.
+2. רקע: This document introduces a new operational procedure aimed at improving inventory accuracy and data integrity between physical stock and the ERP system.
+3. תובנה מרכזית: Regular and accurate physical inventory counts, integrated with digital systems, are essential for maintaining data integrity, reducing discrepancies, and improving overall inventory management efficiency.
+4. צעדים:
+   * Implement the new procedure for Work-In-Process (WIP) inventory counting at the end of every shift.
+   * Each team leader must accurately enter the WIP data into the shared SharePoint table.
+   * Ensure data entry into the SharePoint table is completed by 07:00 AM daily.
+   * Refer to the attached step-by-step guide for proper completion of the table.
+5. אזהרות:
+   * Ensure all team leaders and relevant personnel are adequately trained on the new procedure and the SharePoint data entry process.
+   * Monitor data accuracy and timeliness rigorously to prevent the emergence of new discrepancies between physical and system inventory.
+   * Verify that the attached guide is clear, comprehensive, and addresses all potential questions regarding the new process.

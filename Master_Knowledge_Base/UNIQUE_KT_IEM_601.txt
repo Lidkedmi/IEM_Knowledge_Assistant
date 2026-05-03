@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_601
+====================================
+1. תמצית: Production line 4 experienced a 6-hour shutdown due to a main engine failure caused by insufficient lubrication.
+2. רקע: A critical production line suffered a significant downtime event due to a preventable mechanical failure, highlighting a gap in preventive maintenance.
+3. תובנה מרכזית: Inadequate preventive maintenance frequency, specifically lubrication, directly leads to critical equipment failure and substantial production downtime; continuous monitoring and adjusted maintenance schedules are crucial.
+4. צעדים:
+   * Replaced the main engine.
+   * Updated the preventive maintenance schedule to weekly lubrication instead of monthly.
+   * Installed a temperature sensor for continuous monitoring of the engine.
+5. אזהרות:
+   * Insufficient lubrication can cause catastrophic equipment failure and prolonged production stoppages.
+   * Unmonitored critical components pose a high risk of unexpected and costly downtime.
+   * Failure to update maintenance plans based on root cause analysis will lead to recurrence of similar failures.

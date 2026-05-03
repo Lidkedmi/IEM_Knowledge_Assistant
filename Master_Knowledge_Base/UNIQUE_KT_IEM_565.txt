@@ -1,0 +1,11 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_565
+====================================
+1. תמצית: An initial pilot for an AI-powered vision system in quality control has been launched, promising 99.8% defect detection accuracy.
+2. רקע: The company is initiating a significant pilot project to implement an AI-based vision system for defect detection, representing a paradigm shift.
+3. תובנה מרכזית: AI-powered vision systems can dramatically improve defect detection accuracy, leading to a significant paradigm shift in quality control processes.
+4. צעדים:
+   * Engineering team to closely accompany operators for intensive training over the next two weeks.
+   * Monitor system performance and operator adaptation during the pilot phase.
+5. אזהרות:
+   * Initial resistance to new technology from operators may occur; ensure adequate support and training.
+   * Validate the system's accuracy against real-world conditions and potential false positives/negatives.

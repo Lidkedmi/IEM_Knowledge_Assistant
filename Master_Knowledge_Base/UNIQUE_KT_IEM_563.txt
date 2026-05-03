@@ -1,0 +1,11 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_563
+====================================
+1. תמצית: A systemic supply chain failure due to lack of strategic supplier redundancy caused raw material delays.
+2. רקע: An investigation was conducted following a delay in raw material supply from China last month.
+3. תובנה מרכזית: Relying on a single strategic supplier without redundancy poses a significant risk to supply chain stability and operational continuity, necessitating diversification.
+4. צעדים:
+   * Establish a database of alternative suppliers in Europe.
+   * Procurement manager to present a list of alternative suppliers by the 30th of the month.
+5. אזהרות:
+   * Failure to diversify strategic suppliers can lead to severe production delays and financial losses.
+   * Ensure alternative suppliers meet quality, cost, and reliability standards before integration.

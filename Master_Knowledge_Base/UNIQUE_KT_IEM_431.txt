@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_431
+====================================
+1. תמצית: Production line 4 was immediately halted due to a severe oil leak in the main cylinder of press 4, causing potential damage to 200 units.
+2. רקע: A severe oil leak was discovered in the main cylinder of press 4, necessitating an immediate shutdown of production line 4 to prevent further equipment damage and product spoilage.
+3. תובנה מרכזית: Prompt detection and immediate response to critical equipment failures, especially hydraulic leaks, are essential to minimize product damage, prevent further machine breakdown, and ensure operational safety.
+4. צעדים:
+   * Stop production on line 4 immediately.
+   * Maintenance team to arrive with a replacement seal kit within 15 minutes.
+   * Repair the hydraulic leak in the main cylinder.
+5. אזהרות:
+   * Do not resume work until explicit approval from the shift manager is received.
+   * Ignoring severe oil leaks can lead to significant product damage and catastrophic equipment failure.
+   * Rapid response is critical to mitigate losses.

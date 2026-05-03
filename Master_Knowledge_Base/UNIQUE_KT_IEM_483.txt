@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_483
+====================================
+1. תמצית: An investigation into a forklift incident during unloading revealed a lack of coordination between the truck driver and forklift operator, leading to new mandatory safety protocols.
+2. רקע: This information is documented following a safety incident involving a forklift during unloading, with the aim of identifying root causes and implementing corrective actions to prevent recurrence.
+3. תובנה מרכזית: Effective communication and dedicated on-site oversight are critical for preventing accidents during complex material handling operations involving multiple parties, such as container unloading.
+4. צעדים:
+   * Mandatory placement of a safety coordinator during all container unloading operations.
+   * Implement the use of wireless communication devices between the truck driver and forklift operator.
+   * Conduct immediate training for all relevant personnel on new safety protocols and communication procedures.
+   * Review and update existing safety procedures for all material handling operations to incorporate these learnings.
+5. אזהרות:
+   * Ensure safety coordinators are adequately trained, empowered, and have clear authority to halt unsafe operations.
+   * Regular maintenance and testing of wireless communication equipment are essential to prevent failures.
+   * Potential for complacency over time if safety protocols are not regularly reinforced and audited.
+   * Need to ensure clear roles and responsibilities are defined for all parties involved in unloading processes.

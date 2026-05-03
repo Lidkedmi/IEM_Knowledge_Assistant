@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_610
+====================================
+1. תמצית: The organization is transitioning to Lean Manufacturing, starting with 5S implementation and Visual Management across all workstations.
+2. רקע: This documentation outlines the initial steps and objectives of a strategic organizational shift towards Lean Manufacturing to achieve significant waste reduction.
+3. תובנה מרכזית: Implementing foundational Lean principles like 5S and Visual Management is crucial for initiating waste reduction and achieving strategic operational efficiency goals.
+4. צעדים:
+   * Implement the 5S methodology (Sort, Set in Order, Shine, Standardize, Sustain) in all workstations.
+   * Initiate Visual Management practices across the production floor.
+   * Distribute comprehensive training kits to all department managers.
+   * Aim to reduce waste (Muda) by 20% by the end of the year.
+5. אזהרות:
+   * Ensure consistent application and understanding of 5S and Visual Management across all departments to avoid fragmented implementation.
+   * Provide adequate training and ongoing support to department managers for effective leadership and sustainment of Lean practices.
+   * Regularly monitor progress against the 20% waste reduction target and adjust strategies as needed.

@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_443
+====================================
+1. תמצית: A Root Cause Analysis (RCA) concluded that a quality deviation in shipment X-900 was caused by faulty CNC machine calibration during the night shift.
+2. רקע: A quality failure in a shipment prompted a thorough RCA, identifying a specific operational lapse as the root cause, impacting product quality and waste levels.
+3. תובנה מרכזית: Thorough root cause analysis is critical for identifying specific operational failures and implementing targeted corrective actions that not only resolve immediate issues but also drive significant improvements in quality and waste reduction.
+4. צעדים:
+   * Implement mandatory CNC machine calibration at the beginning of every shift, requiring operator signature for verification.
+   * Add an in-line optical inspection station to detect deviations earlier in the production process.
+   * Update and refresh employee training programs to ensure understanding and adherence to new calibration and quality control procedures.
+5. אזהרות:
+   * Incomplete or skipped calibration can lead to recurring quality deviations and continued waste generation.
+   * Failure to implement in-line inspections allows defects to propagate, increasing rework costs and customer impact.
+   * Insufficient or outdated employee training can negate the effectiveness of new procedures and investments in technology.
+   * Ignoring these corrective actions will prevent the projected 12% waste reduction and risk future quality failures.

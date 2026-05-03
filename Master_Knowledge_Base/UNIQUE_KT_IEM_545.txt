@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_545
+====================================
+1. תמצית: A planned factory-wide power outage is scheduled for high-voltage transformer upgrade, requiring specific shutdown procedures.
+2. רקע: A critical, decennial maintenance event involving a high-voltage transformer upgrade necessitates a complete factory power shutdown.
+3. תובנה מרכזית: Thorough planning and clear communication of shutdown protocols are paramount for major infrastructure maintenance to protect equipment, prevent operational disruptions, and ensure a smooth restart.
+4. צעדים:
+   * Shut down all servers and machines by Friday at 15:00.
+   * The operations team must ensure all production lines are emptied of sensitive raw materials.
+   * The power outage will occur on Saturday between 08:00-16:00.
+5. אזהרות:
+   * Failure to properly shut down equipment can result in damage due to power fluctuations or sudden loss.
+   * Not emptying sensitive raw material lines can lead to spoilage, contamination, or significant production delays.
+   * Inadequate communication or non-compliance with shutdown times can cause operational chaos and safety risks.

@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_502
+====================================
+1. תמצית: A new Kanban inventory management procedure will be implemented in the spare parts warehouse starting this Sunday.
+2. רקע: To optimize inventory management in the spare parts warehouse, a new Kanban system is being introduced to streamline reordering and reduce stockouts.
+3. תובנה מרכזית: Implementing a pull-based inventory system like Kanban can significantly improve efficiency, reduce waste, and ensure timely replenishment of critical spare parts.
+4. צעדים:
+   * Mark reorder points clearly on shelves for each item.
+   * When an item reaches its reorder point, fill out a demand card in the ERP system.
+   * Ensure the purchasing department is updated promptly based on ERP demand cards.
+   * Familiarize with the detailed steps and use of Kanban cards (e.g., yellow cards) as per the attached PDF.
+5. אזהרות:
+   * Incorrectly marking reorder points or failing to process demand cards promptly can lead to stockouts or overstocking.
+   * Lack of proper training or adherence to the new Kanban procedure can undermine its effectiveness.
+   * Initial implementation may require close monitoring to fine-tune reorder points and card flow.

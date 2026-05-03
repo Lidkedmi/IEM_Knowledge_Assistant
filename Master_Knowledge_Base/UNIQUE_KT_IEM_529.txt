@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_529
+====================================
+1. תמצית: The factory will undergo a planned shutdown from August 15-18 for central electrical infrastructure maintenance.
+2. רקע: Annual maintenance of critical central electrical infrastructure requires a temporary factory shutdown to ensure safety and operational reliability.
+3. תובנה מרכזית: Effective planning and communication are vital for managing factory shutdowns due to planned maintenance, minimizing disruption to production and logistics by setting clear deadlines for material movement.
+4. צעדים:
+   * Communicate factory shutdown dates (August 15-18) to all relevant departments and external partners.
+   * Logistics department to ensure all outgoing shipments are completed by August 14.
+   * Prohibit the entry of new raw materials into the factory during the shutdown week.
+5. אזהרות:
+   * Failure to clear shipments by the deadline will result in significant delays and potential penalties.
+   * Bringing in new raw materials during the shutdown will cause logistical complications and storage issues.
+   * Ensure all critical systems are powered down safely and personnel are aware of safety protocols during maintenance.

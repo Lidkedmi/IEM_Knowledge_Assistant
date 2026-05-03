@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_587
+====================================
+1. תמצית: Pareto analysis revealed that 65% of Q2 final assembly rejections are due to faulty soldering of component B, leading to increased calibration frequency.
+2. רקע: High rejection rates in the final assembly line during Q2 necessitated a data-driven investigation to identify the primary root causes and implement effective corrective actions.
+3. תובנה מרכזית: Data-driven analysis, specifically Pareto analysis, effectively identifies the primary contributors to quality issues, enabling targeted interventions that significantly reduce defects and improve overall product quality.
+4. צעדים:
+   * Identify that 65% of final assembly rejections stem from faulty soldering of component B.
+   * Change the calibration frequency of automatic soldering machines from weekly to every 24 hours.
+   * Review the attached Pareto chart to understand other contributing rejection causes.
+   * Implement a monitoring system to track rejection rates post-calibration frequency change.
+5. אזהרות:
+   * Ensure strict adherence to the new 24-hour calibration schedule for all automatic soldering machines.
+   * Monitor rejection rates post-implementation to confirm the effectiveness of the increased calibration frequency.
+   * Investigate if component B itself has inherent quality issues or if the soldering process is the sole cause.
+   * Risk of over-calibrating, potentially leading to increased maintenance time without proportional quality gains.

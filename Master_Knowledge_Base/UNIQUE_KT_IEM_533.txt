@@ -1,0 +1,12 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_533
+====================================
+1. תמצית: A delay in component supply for Project Alpha was caused by a lack of coordination between purchasing and the shipping agent.
+2. רקע: This information is being documented to prevent future supply chain delays and improve coordination with external logistics partners, following a root cause analysis.
+3. תובנה מרכזית: Effective supply chain management requires robust coordination mechanisms and proactive monitoring of critical suppliers and logistics partners to prevent costly project delays.
+4. צעדים:
+   * Implement weekly tracking with critical suppliers.
+   * Utilize an early warning system for supply chain disruptions.
+   * Improve coordination protocols between the purchasing department and shipping agents.
+5. אזהרות:
+   * Failure to maintain regular communication with critical suppliers can lead to unforeseen delays.
+   * Lack of a proactive alert system can result in late detection of supply chain issues, impacting project timelines and costs.
