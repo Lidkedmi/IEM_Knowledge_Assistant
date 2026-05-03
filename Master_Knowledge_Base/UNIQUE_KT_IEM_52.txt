@@ -1,0 +1,12 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_52
+====================================
+1. תמצית: A new raw material inventory management procedure (PRD-005-2023) is being launched, effective March 1, 2024, with mandatory training provided.
+2. רקע: There is a need for standardized and detailed guidelines for receiving, storing, and quality controlling raw materials to improve efficiency and accuracy.
+3. תובנה מרכזית: A well-defined and consistently applied raw material inventory management procedure is fundamental for efficient operations, accurate stock levels, minimizing waste, and maintaining product quality from the initial stages of the supply chain.
+4. צעדים:
+   * Review the new raw material inventory management procedure (PRD-005-2023) thoroughly.
+   * Implement the new procedure across all relevant departments starting from March 1, 2024.
+   * Attend the mandatory training session on Thursday, February 29, 2024, at 10:00 in the main meeting room.
+5. אזהרות:
+   * Inconsistent application of inventory procedures can lead to stock discrepancies, material damage, production delays, and quality issues.
+   * Failure to attend training may result in misunderstanding or incorrect application of the new procedure.
