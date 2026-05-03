@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_925
+====================================
+1. תמצית: A near-miss incident occurred in the assembly area due to improper storage of a heavy tool, prompting immediate corrective actions and safety procedure refreshers.
+2. רקע: A near-miss incident, where a heavy tool fell from an unsecured high shelf, highlighted critical safety gaps in tool storage and employee awareness in the assembly area.
+3. תובנה מרכזית: Near-miss incidents are critical indicators of systemic safety failures; prompt investigation, immediate corrective actions, and reinforcement of safety protocols (including proper storage and awareness training) are essential to prevent future accidents.
+4. צעדים:
+   * Immediately remove all unsecured tools and objects stored at height in all assembly lines.
+   * Conduct refresher training on safe storage procedures for all production employees on 29/02 at 10:00.
+   * Maintenance department to install safer storage facilities in the assembly area by the end of the week.
+   * Investigate the root cause of improper storage and lack of awareness to prevent recurrence.
+5. אזהרות:
+   * Failure to address near-miss incidents can lead to actual accidents with severe consequences.
+   * Inadequate or delayed implementation of corrective actions can perpetuate safety risks.
+   * Lack of employee awareness or adherence to safety procedures is a critical risk factor that must be continuously monitored.
+   * Ensure that new storage solutions are actually safer, properly installed, and consistently utilized by employees.

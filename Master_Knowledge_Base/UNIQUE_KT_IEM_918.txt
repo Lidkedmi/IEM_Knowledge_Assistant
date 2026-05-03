@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_918
+====================================
+1. תמצית: A cross-functional project successfully reduced production costs on Line A by 18%, resulting in an annual saving of 1.2 million ILS.
+2. רקע: The company initiated a project to reduce production costs on Line A, aiming for improved efficiency and profitability.
+3. תובנה מרכזית: Holistic cost reduction projects involving process optimization, supply chain adjustments, and waste reduction, supported by inter-departmental collaboration, can yield significant financial savings and operational efficiencies.
+4. צעדים:
+   * Optimize assembly processes on production line A.
+   * Evaluate and switch to alternative raw material suppliers (e.g., B-Tech).
+   * Implement measures to reduce production waste (e.g., by 7%).
+   * Foster strong collaboration between engineering, procurement, and production departments.
+5. אזהרות:
+   * Ensure new suppliers meet all quality standards and specifications before full transition.
+   * Monitor the long-term impact of process changes on product quality and employee morale.
+   * Verify that cost reductions do not compromise safety or product performance.

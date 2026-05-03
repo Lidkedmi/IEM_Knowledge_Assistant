@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_917
+====================================
+1. תמצית: New national safety regulations necessitate updated internal procedures and mandatory training for all employees.
+2. רקע: National safety regulations have changed, requiring the company to update its internal safety procedures to ensure compliance and employee safety.
+3. תובנה מרכזית: Proactive adaptation to external regulatory changes through mandatory training is crucial for maintaining compliance, ensuring employee safety, and avoiding operational disruptions.
+4. צעדים:
+   * Update internal safety procedures to align with new national regulations.
+   * Schedule and announce mandatory safety refresher training sessions (18.03.2024, 20.03.2024, 22.03.2024).
+   * Require all employees to register for one of the training sessions via the HR system by 10.03.2024.
+   * Enforce consequences (e.g., suspension) for non-compliance with training requirements.
+5. אזהרות:
+   * Failure to attend mandatory training will result in suspension from work.
+   * Non-compliance with new safety regulations can lead to legal penalties and increased risk of workplace accidents.

@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_922
+====================================
+1. תמצית: A new comprehensive quality control protocol for Product X, including additional inspections and tighter tolerances, will be implemented to address recent quality failures.
+2. רקע: Recent quality failures in Product X necessitated the development and implementation of a new, more stringent quality control protocol to reduce defects and enhance product reliability.
+3. תובנה מרכזית: Addressing recurring quality issues requires a multi-faceted approach, including adding inspection points, tightening critical component tolerances, and digitizing inspection processes, supported by mandatory training for effective implementation.
+4. צעדים:
+   * Add a visual inspection point at assembly station 4 for Product X.
+   * Define and implement a new, tighter tolerance for critical component Y (0.05mm instead of 0.1mm).
+   * Implement a new digital inspection form via the MES system to replace the manual form.
+   * Conduct mandatory training for all relevant production and QA employees on 28/02 at 14:00.
+   * Ensure the full protocol (PDF) is read and understood by all relevant personnel before its effective date (01/03/2024).
+5. אזהרות:
+   * Failure to attend mandatory training will hinder effective protocol implementation and may lead to continued quality issues.
+   * Incorrect application of new tolerances or inspection procedures could lead to increased scrap or undetected defects.
+   * Ensure the MES system for digital forms is fully functional and user-friendly before rollout to avoid operational delays.
