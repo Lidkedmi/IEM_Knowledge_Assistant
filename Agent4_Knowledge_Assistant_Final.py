@@ -11,7 +11,7 @@ import time
 # ==========================================
 # 1. הגדרות API ורשימת מודלים (Rotation)
 # ==========================================
-API_KEY = "AIzaSyAkqo-D7avk2XtHRNTcWKpEadxcRmPGm6c" # הכנס את המפתח שלך
+API_KEY = "MY_API_KEY" # הכנס את המפתח שלך
 client = genai.Client(api_key=API_KEY)
 
 BASE_PATH = r"C:\Users\lidor.kedmi\Desktop\Final_Project\V2"
