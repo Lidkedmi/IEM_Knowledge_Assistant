@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_770
+====================================
+1. תמצית: Quality deviation in production batch 9021 due to viscosity exceeding the maximum standard.
+2. רקע: A laboratory test revealed that the product's viscosity level exceeded the specified standard (7.2 instead of a maximum of 6.5). The entire batch has been placed on hold.
+3. תובנה מרכזית: Temperature calibration of mixers is critical for ensuring product viscosity meets quality standards. Deviations can lead to batch rejection and production delays.
+4. צעדים:
+   * Perform re-sampling of the affected batch.
+   * Verify the calibration of temperature sensors in the mixers.
+   * Analyze the root cause of the temperature deviation.
+   * Implement corrective actions to prevent recurrence.
+5. אזהרות:
+   * Ensure accurate temperature readings from all mixers.
+   * Regularly check and calibrate temperature sensors.
+   * Understand the impact of temperature on product viscosity.

@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_692
+====================================
+1. תמצית: A quality deviation resulting in 200 rejected units was traced to a sensor calibration error, leading to a new double-calibration SOP.
+2. רקע: To formalize the findings of a root cause analysis and the corrective actions implemented to prevent recurrence of quality issues.
+3. תובנה מרכזית: Even minor calibration deviations (0.5%) in critical sensors can lead to significant quality failures, necessitating robust, multi-stage verification processes like double calibration at the start of each shift.
+4. צעדים:
+   * Conducted a 5-Whys root cause analysis for the rejection of 200 units.
+   * Identified the cause as a sensor calibration deviation of 0.5%.
+   * Decided to implement a double calibration check at the start of each shift.
+   * Updated SOP-QC-04 to reflect the new procedure.
+5. אזהרות:
+   * Ensure all operators are trained on the updated SOP-QC-04.
+   * Monitor the effectiveness of the double calibration process to ensure it prevents future deviations.

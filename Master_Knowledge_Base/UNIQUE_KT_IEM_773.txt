@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_773
+====================================
+1. תמצית: System failure investigation concludes that a central conveyor belt collapsed due to material fatigue in a bearing.
+2. רקע: The root cause analysis of the central conveyor belt collapse on 12.05 identified material fatigue in a bearing that was not replaced during the last preventive maintenance.
+3. תובנה מרכזית: Preventive maintenance schedules must be updated to include critical component replacements based on material fatigue analysis, and advanced monitoring systems like vibration sensors can detect early signs of failure.
+4. צעדים:
+   * Update the preventive maintenance checklist to include bearing replacement.
+   * Install vibration sensors on critical motors.
+   * Refresh and reinforce weekly lubrication procedures.
+   * Review maintenance logs for other critical components.
+5. אזהרות:
+   * Neglecting scheduled replacement of critical components can lead to catastrophic failures.
+   * Regularly monitor vibration data for early detection of bearing wear.
+   * Ensure all maintenance personnel are aware of updated procedures.

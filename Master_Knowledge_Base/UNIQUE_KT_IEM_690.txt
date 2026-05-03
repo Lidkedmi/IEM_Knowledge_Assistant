@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_690
+====================================
+1. תמצית: Supply chain optimization efforts identified and addressed a bottleneck in goods receiving, aiming to reduce lead time by 15%.
+2. רקע: To record the successful implementation of a supply chain improvement initiative and its expected impact.
+3. תובנה מרכזית: Analyzing recent performance data can reveal specific bottlenecks (like goods receiving) that, when addressed through targeted interventions (e.g., additional unloading station, adjusted truck schedules), can significantly reduce overall lead times.
+4. צעדים:
+   * Analyzed Q4 supply chain data.
+   * Identified a bottleneck in the goods receiving stage.
+   * Decided to add a third unloading station.
+   * Modified truck arrival schedules.
+   * Expect a 15% reduction in lead time.
+5. אזהרות:
+   * Ensure new unloading station is adequately staffed and equipped.
+   * Communicate new truck schedules effectively to all relevant parties.

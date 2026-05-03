@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_775
+====================================
+1. תמצית: Severe quality deviation in electronics components shipment #992, with 12% failing voltage specifications.
+2. רקע: Incoming Quality Control (IQC) inspection of a shipment from 'Techno-Component' revealed that 12% of the components do not meet the required voltage specifications.
+3. תובנה מרכזית: Thorough incoming quality control is vital to prevent the use of non-conforming components, which can lead to production line stoppages and product failures. Supplier performance must be actively managed.
+4. צעדים:
+   * Immediately halt the use of this component batch in all production lines.
+   * Coordinate with the purchasing department to return the defective goods.
+   * Request an urgent replacement shipment from the supplier.
+   * Review supplier quality performance and consider corrective actions.
+5. אזהרות:
+   * Using non-conforming components can lead to product defects and customer dissatisfaction.
+   * Ensure clear communication with suppliers regarding quality requirements.
+   * Implement robust IQC procedures for all critical components.

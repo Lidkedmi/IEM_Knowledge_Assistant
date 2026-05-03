@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_696
+====================================
+1. תמצית: A fire in a communication cabinet has caused a system-wide WIFI failure in the logistics warehouse, forcing a return to manual operations.
+2. רקע: To document a critical infrastructure failure impacting warehouse operations and the immediate workaround required.
+3. תובנה מרכזית: Reliance on wireless networks in critical logistics operations creates a single point of failure; a robust backup plan involving manual processes is essential for business continuity during network outages.
+4. צעדים:
+   * A fire in a communication cabinet caused WIFI outage in the eastern warehouse.
+   * Handheld scanners are not synchronizing.
+   * Transition to manual operations using printed Excel forms.
+   * Await repair of the communication cabinet.
+5. אזהרות:
+   * High risk of data entry errors and inefficiencies with manual processes.
+   * Potential for significant delays in order fulfillment and inventory management.

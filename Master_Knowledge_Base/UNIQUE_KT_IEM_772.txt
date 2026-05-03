@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_772
+====================================
+1. תמצית: New procedure for Work-In-Progress (WIP) inventory reporting in the ERP system.
+2. רקע: Starting next Sunday, a new procedure requires barcode scanning at each station transition on the assembly line to improve the accuracy of production cost calculations.
+3. תובנה מרכזית: Accurate and timely WIP reporting via barcode scanning is essential for precise production cost accounting and efficient production order closure.
+4. צעדים:
+   * Scan the work order at each station.
+   * Confirm the quantity of good parts.
+   * Report any scrap or defects.
+   * Ensure all scans are completed before the end of the shift to allow for work order closure.
+5. אזהרות:
+   * Failure to report WIP accurately will prevent work order closure at the end of the shift.
+   * Ensure all assembly line personnel are trained on the new scanning procedure.
+   * Verify that barcode scanners are functioning correctly.

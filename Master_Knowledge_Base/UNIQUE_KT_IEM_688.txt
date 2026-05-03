@@ -1,0 +1,13 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_688
+====================================
+1. תמצית: A cybersecurity incident led to the proactive shutdown of all MES systems.
+2. רקע: To document the response and necessary precautions during a critical IT security event that impacts production management.
+3. תובנה מרכזית: Proactive system shutdown is a critical security measure to prevent wider damage during a cyber-attack, requiring immediate transition to manual processes.
+4. צעדים:
+   * All MES systems were proactively shut down due to a cyber intrusion attempt.
+   * Transition to manual recording of outputs and fault reporting.
+   * Await further instructions from the IT department.
+   * Do not open external emails.
+5. אזהרות:
+   * Potential for data loss or system compromise if shutdown is not immediate.
+   * Risk of operational disruption due to reliance on manual processes.

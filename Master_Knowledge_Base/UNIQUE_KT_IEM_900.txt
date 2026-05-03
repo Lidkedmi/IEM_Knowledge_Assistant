@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_900
+====================================
+1. תמצית: A new, unified process for managing Engineering Change Requests (ECR) will be implemented via Jira starting 01.08.2024, enhancing transparency and efficiency.
+2. רקע: The organization is standardizing and centralizing the management of Engineering Change Requests (ECR) to improve efficiency, transparency, and control over all types of changes.
+3. תובנה מרכזית: Centralizing and standardizing the ECR process through a dedicated system like Jira improves change management transparency, efficiency, and control, but requires mandatory user training and strict adherence to the new workflow for successful adoption.
+4. צעדים:
+   * Implement the new unified ECR process via the Jira system starting 01.08.2024.
+   * Conduct mandatory user training for all involved departments during the last week of July.
+   * Ensure all change requests, from minor documentation updates to significant product/process changes, are submitted exclusively through the new Jira system.
+   * Refer to the attached 'ECR_Process_Guide_V1.pdf' for comprehensive user guidance.
+5. אזהרות:
+   * Failure to adopt the new Jira-based ECR process will lead to unmanaged, delayed, or non-compliant changes.
+   * Lack of proper training will hinder effective use of the new system and process, potentially causing bottlenecks.
+   * Ensure all stakeholders are aware of the new process and its mandatory use to avoid parallel, unofficial change requests.
+   * Potential for initial resistance or confusion during the transition period, requiring strong change management support.

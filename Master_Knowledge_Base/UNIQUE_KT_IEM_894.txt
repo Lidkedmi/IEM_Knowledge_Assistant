@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_894
+====================================
+1. תמצית: A new, advanced production planning module in the ERP system will be launched on 01.09.2024, replacing the current MRP system.
+2. רקע: The organization is upgrading its production planning capabilities to improve resource optimization and integration by replacing an older MRP system with a new ERP module.
+3. תובנה מרכזית: Implementing a new, integrated ERP production planning module enhances resource optimization and cross-functional integration, but requires mandatory training for successful adoption and utilization across all relevant personnel.
+4. צעדים:
+   * Launch the new ERP production planning module on 01.09.2024.
+   * Conduct frontal training sessions for all users during August.
+   * Distribute a detailed training schedule separately to all relevant departments.
+   * Ensure all production planners, line managers, and support teams complete the mandatory training.
+   * Make updated operating manuals available on the organizational portal.
+5. אזהרות:
+   * Failure to complete mandatory training will hinder effective use of the new system and could disrupt production planning.
+   * Potential for initial resistance or confusion if the transition is not managed with clear communication and support.
+   * Ensure all system integrations (e.g., with purchasing and inventory modules) are thoroughly tested before launch.

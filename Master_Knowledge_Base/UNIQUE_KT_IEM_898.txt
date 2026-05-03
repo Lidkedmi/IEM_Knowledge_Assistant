@@ -1,0 +1,15 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_898
+====================================
+1. תמצית: A Lean workshop identified causes for 8% monthly waste of 'Delta-1' raw material and developed a new process to significantly reduce it.
+2. רקע: High waste (approximately 8% monthly rejection) of 'Delta-1' raw material prompted a Lean workshop to identify root causes and develop a new, more efficient production process.
+3. תובנה מרכזית: Applying Lean principles, such as process re-engineering, operator retraining, and specific tooling implementation, can significantly reduce material waste and improve efficiency, but requires precise execution and consistent adherence to new procedures.
+4. צעדים:
+   * Implement new cutting points for 'Delta-1' raw material.
+   * Retrain all relevant operators on the new process (Phase A to be completed by 25.07.2024).
+   * Install a new jig on cutting machine #5 by 01.08.2024.
+   * Begin full implementation of the new waste reduction process on 05.08.2024.
+   * Refer to the attached document 'Waste Reduction Procedures – Delta-1_V1.pdf' for detailed guidelines.
+5. אזהרות:
+   * Inconsistent application of new cutting points or insufficient operator training could negate waste reduction efforts.
+   * Delays in installing the new jig or retraining operators will impact the effectiveness and timeline of the new process.
+   * Continuous monitoring of 'Delta-1' waste levels is crucial to ensure the new process is effective and sustained.

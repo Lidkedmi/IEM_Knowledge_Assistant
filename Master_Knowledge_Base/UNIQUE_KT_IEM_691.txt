@@ -1,0 +1,14 @@
+﻿KNOWLEDGE TRANSFER DOCUMENT: IEM_691
+====================================
+1. תמצית: Production line 4 was emergency stopped due to a main engine overheating and shaft fracture, requiring a 24-hour shutdown.
+2. רקע: To document an emergency production line stoppage, the cause, and the immediate actions taken to mitigate impact.
+3. תובנה מרכזית: Sudden critical equipment failure (like a main engine shaft fracture) necessitates immediate line shutdown and rapid reallocation of urgent orders to maintain production continuity.
+4. צעדים:
+   * Production line 4 stopped at 08:15 due to main engine (M-202) overheating.
+   * Maintenance technicians identified a fractured shaft.
+   * The line will be down for the next 24 hours.
+   * Immediately transfer all urgent orders to line 3.
+   * Refer to the attached initial fault report.
+5. אזהרות:
+   * Risk of further damage if the engine is operated before repair.
+   * Potential delays in fulfilling urgent orders if line 3 capacity is insufficient.
